@@ -1,0 +1,67 @@
+body{background-image: url(./img/img1.jpg);
+
+}
+
+.conatainer{
+  width: 40%;
+  height: 350px;
+  background-color:rgba(255, 255, 255, 0.808);
+  margin: 100px auto;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+
+
+}
+
+h1{
+  text-align: center;
+  padding: 30px;
+  font-family: 'Roboto', sans-serif
+
+}
+
+.name{
+  text-align: center;
+  margin: 12px 0;
+  font-size: 12px;
+
+}
+.dob{
+  text-align: center;
+  margin: 10px 0;
+  font-size: 12px;
+
+}
+.email{
+  text-align: center;
+  margin: 12px 0;
+  font-size: 12px;
+
+}
+button{
+  margin-left: 250px;
+  margin-top: 30px;
+  border-radius: 5px;
+  
+}
+
+#fname{
+  width: 150px;
+  border-radius: 5px;
+  
+}
+#fdob{
+  width: 150px;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+#femail{
+  width: 150px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+p{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
