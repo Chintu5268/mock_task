@@ -1,12 +1,14 @@
 body{background-image: url(./img/img1.jpg);
+  background-size: cover;
 
 }
 
 .conatainer{
   width: 40%;
   height: 350px;
-  background-color:rgba(255, 255, 255, 0.808);
-  margin: 100px auto;
+  background: linear-gradient(to top right,rgba(204, 31, 118, 0.9),white);
+  margin: 80px auto;
+  border: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
 
@@ -15,32 +17,32 @@ body{background-image: url(./img/img1.jpg);
 
 h1{
   text-align: center;
-  padding: 30px;
+  padding: 20px;
   font-family: 'Roboto', sans-serif
 
 }
 
 .name{
   text-align: center;
-  margin: 12px 0;
+  margin: 8px 0;
   font-size: 12px;
 
 }
 .dob{
   text-align: center;
-  margin: 10px 0;
+  margin: 8px 0;
   font-size: 12px;
 
 }
 .email{
   text-align: center;
-  margin: 12px 0;
+  margin: 8px 0;
   font-size: 12px;
 
 }
 button{
   margin-left: 250px;
-  margin-top: 30px;
+  margin-top: 15px;
   border-radius: 5px;
   
 }
