@@ -6,7 +6,7 @@ body{background-image: url(./img/img1.jpg);
 .conatainer{
   width: 40%;
   height: 350px;
-  background: linear-gradient(to top right,rgba(204, 31, 118, 0.9),white);
+  background: linear-gradient(to top right,rgba(114, 2, 58, 0.9),white);
   margin: 80px auto;
   border: 1px solid black;
   border-top-right-radius: 15px;
